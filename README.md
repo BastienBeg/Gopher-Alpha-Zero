@@ -1,6 +1,6 @@
 # Intro
 
-Poussé par le curiosité, je me suis lancé dans une tentative d'implémentation de l'algorithme Alpha-Zero pour concevoir un agent intelligent pour le jeu Gopher.
+Poussé par la curiosité, je me suis lancé dans une tentative d'implémentation de l'algorithme Alpha-Zero pour concevoir un agent intelligent pour le jeu Gopher.
 Ce jeu est crée par Mark Steere dont les règles sont disponible dans le pdf du repo "Gopher_hex_rules.pdf".  
 Je tiens à préciser avant tout propos que la totalité des sources que j'ai pu utiliser dans ce projet, sont incluses à la fin de ce document texte dans la section : "Ressources"
 
