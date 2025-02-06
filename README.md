@@ -7,7 +7,7 @@ Je tiens à préciser, avant tout propos, que la totalité des sources que j'ai 
 
 Pour vous présenter ce projet, je vais tout d'abord vous présenter l'architecture du modèle ainsi que sa boucle d'entraînement, puis ensuite, je vous présenterai mes tentatives d'entraînement et enfin, les résultats que j'ai obtenus.
 
-# Architecture et Implémentation du model
+# Architecture et Implémentation du modèle
 
 ## Réseau de neurones
 
